@@ -11,8 +11,8 @@
  <li>Link đề thi:</li> https://bit.ly/dethi_round2
  <li>Link video của đội thi:
 <ul>
-    <li> … </li>
-    <li> … </li>
+    <li> https://youtu.be/5K4a5AAdFIw </li>
+    <li> https://youtu.be/Jsq0uWPG-tw </li>
     <li> https://youtu.be/KX-C5Jnt724 </li>
     <li> https://youtu.be/cZFJlK3NkzI</li>   
  </ul>
